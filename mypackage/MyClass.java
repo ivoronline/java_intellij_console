@@ -18,7 +18,6 @@ public class MyClass {
     String       json   = mapper.writeValueAsString(person);
     System.out.println(json);
 
-
   }
 
 }
